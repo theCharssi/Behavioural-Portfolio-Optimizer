@@ -1,0 +1,2700 @@
+ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Project: Behaviour al Portfolio Optimizer  
+Task:  Develop a  Behaviour al finance platform that detects investor biases, adjusts portfolio  
+optimization algorithms accordingly, and provides personalized nudges to improve  investment 
+decisions.  
+ 
+Deliverables  
+ 
+Part 1 (Foundation & Setup): Private repository with React/Next.js frontend, Python/FastAPI 
+backend for ML models, PostgreSQL database for user data, bias detection framework 
+architecture, integration with brokerage APIs (Alpaca/Interactive Brokers), authentication system 
+with portfolio connection, initial data pipeline for transaction history analysis, Behaviour al 
+finance literature review and bias taxonomy (overconfidence, loss aversion, recency bias, 
+confirmation bias, herd mentality, anchoring), machine learning model selection (Random 
+Forest, Neural Networks, NLP for sentiment), deployed development environment with CI/CD 
+pipeline.  
+ 
+Part 2 (Bias Detection System): ML models trained on historical trading patterns to detect 8+ 
+investor biases, transaction analysis engine identifying timing patterns, holding periods, panic 
+selling, FOMO buying, natural language processing on user notes and research queries, bias 
+scoring dashboard showing individual bias intensity (0 -100 scale), real -time bias detection 
+during active trading sessions, comparison against rational investor baseline, bias correlation 
+analysis across portfolio decisions, automated bias reports with historical trends, API endpoints 
+for bias data retrieval, 85%+ detection accuracy validated against Behaviour al economics 
+research.  
+ 
+Part 3 (Portfolio Optimization): Bias -adjusted Modern Portfolio Theory implementation, multi -
+objective optimization considering expected return, risk tolerance, and detected biases, dynamic 
+asset allocation adjusting for overconfidence (reducing leverage), loss aversion (tactical stop -
+losses), recency bias (mean reversion signals), Monte Carlo simulations incorporating 
+Behaviour al factors, risk -adjusted return calculations (Sharpe ratio, Sortino ratio, max 
+drawdown), rebalancing recommendations accounting for disposition effect, tax -loss harvesting 
+with Behaviour al nudges, portfolio stress testing under user -specific bias scenarios, comparison 
+of traditional vs bias -adjusted portfolios showing 12 -18% better risk -adjusted returns.  
+ 
+Part 4 (Nudge & Recommendation System): Personalized notification engine delivering timely 
+Behaviour al interventions, context -aware nudges triggered by detected bias patterns (e.g., "You 
+tend to sell winners too early - consider holding 30 days more"), cooling -off period suggestions ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  before impulsive trades, framing effects using gain/loss language based on prospect theory, 
+social proof nudges showing peer comparison anonymously, commitment devices allowing users 
+to set pre -commitment rules, educational micro -lessons explaining specific biases when detected, 
+A/B tested nudge effectiveness (45% reduction in biased decisions), gamification with bias -
+reduction achievement badges, customizable nudge intensity and frequency, SMS/email/in -app 
+delivery channels.  
+ 
+Part 5 (User Interface & Dashboard): Intuitive dashboard showing portfolio health, bias scores, 
+and optimization suggestions, interactive bias heatmap visualizing 8 biases over time, trade 
+journal with automated bias tagging and reflection prompts, "What -if" simulator showing impact 
+of bias -free decisions, portfolio comparison view (current vs optimized), mobile -responsive 
+design for on -the-go nudges, real -time alerts during active trading with bias warnings, 
+educational resource library with videos, articles, quizzes, progress tracking showing bias 
+reduction over weeks/months, social features for accountability partners (optional), dark mode 
+with financial data visualization using Recharts/D3.js, accessibility compliance (WCAG 2.1 
+AA).  
+ 
+Part 6 (Testing & Validation): Backtesting bias detection models on 5+ years historical data with 
+10,000+ user transactions, validation against established Behaviour al finance research papers, 
+A/B testing of nudge effectiveness with control groups, portfolio optimization validation 
+showing consistent outperformance (80%+ test cases), user acceptance testing with 50+ beta 
+testers from different investor profiles, performance testing handling 10,000+ concurrent users, 
+security penetration testing for financial data protection, regulatory compliance audit (FINRA, 
+SEC guidelines), algorithm bias fairness testing across demographics, 90%+ test coverage for 
+critical financial calculations, load testing for market volatility periods (high trading volume), 
+model retraining pipeline with fresh data quarterly.  
+ 
+Part 7 (Integration & Deployment): Production deployment on AWS/Azure with auto -scaling, 
+integration with 3+ brokerage APIs for live portfolio sync, real -time market data feeds (Alpha 
+Vantage, IEX Cloud), secure data encryption (AES -256) and compliance (SOC 2, GDPR), 
+monitoring dashboards tracking system health, bias detection accuracy, nudge engagement rates, 
+CI/CD pipeline with automated testing and rollback capabilities, database optimization for fast 
+portfolio queries (<500ms), CDN for global low -latency access, disaster recovery and backup 
+systems (99.9% uptime SLA), API rate limiting and DDoS protection, comprehensive logging 
+and error tracking (Sentry/DataDog), performance optimization achieving <2s page loads and 
+<100ms API responses.  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Final Part (Handover & Documentation): Complete codebase with 85%+ test coverage 
+transferred to client repository, comprehensive technical documentation including system 
+architecture, API specifications, database schemas, ML model documentation with training 
+procedures and hyperparameters, user manual with screenshots and video tutorials, admin panel 
+documentation for content management and user support, deployment runbook with step -by-step 
+production setup instructions, security audit report and compliance certifications, performance 
+benchmarking report showing 15 -20% improvement in risk -adjusted returns for users who 
+follow nudges, roadmap for future enhancements (robo -advisor integration, tax optimization, 
+ESG preferences, crypto portfolio support), training sessions for client technical team, 30 -day 
+post-launch support with bug fixes and optimization, handover presentation demonstrating all 
+features, analytics dashboard showing user engagement metrics (40%+ active nudge response 
+rate, 60%+ bias reduction after 3 months).  
+ 
+CONFIDENTIALITY & INTELLECTUAL PROPERTY NOTICE  
+STRICT CONFIDENTIALITY REQUIREMENTS  
+ 
+This project and all related work is STRICTLY PRIVATE & CONFIDENTIAL  
+ 
+Mandatory Requirements:  
+• ALL GitHub repositories MUST be set to PRIVATE  
+• NO public sharing of code, concepts, or implementations  
+• NO posting on social media, portfolios, or public platforms  
+• ALL work remains property of Zetheta Algorithms Private Limited  
+• NDA compliance required throughout project lifecycle  
+ 
+GitHub Repository Requirements:  
+• Create as PRIVATE repository from Day 1  
+• Add ONLY authorized collaborators  
+• Enable branch protection rules  
+• Disable forking  
+• No public wikis or discussions  
+• Transfer ownership to @ ZethetaIntern  on Day 15  
+ 
+Intellectual Property Transfer:  
+• All code, documentation, and assets become property of Zetheta Algorithms  
+• Student retains no rights to commercialize or distribute  
+• Portfolio references allowed ONLY with written permission  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  • Case study usage requires explicit approval  
+ 
+Violations Will Result In:  
+• Immediate project termination  
+• Loss of certification  
+• Potential legal action  
+• Removal from program  
+ 
+By starting this project, you agree to:  
+1. Maintain complete confidentiality  
+2. Create only private repositories  
+3. Transfer all IP rights to Zetheta Algorithms  
+4. Not discuss project details publicly  
+5. Sign NDA if requested  
+  
+RAPID DEVELOPMENT NOTICE  
+ 
+This project MUST be completed in 15 days using AI/LLM tools and low -code platforms  
+ 
+• Timeline: 15 days from start to deployment  
+• Approach: 80% AI -generated code, 20% customization  
+• Tools: Claude.ai, ChatGPT, Cursor, v0.dev, Bubble.io, ServiceNow  
+• Success Metric: Working MVP deployed, not perfect code  
+ 
+DAY 1: MANDATORY SETUP PROCEDURES  
+ 
+CRITICAL FIRST STEPS (Must Complete Before Any Coding)  
+ 
+1. GitHub Private Repository Setup:  
+    
+   Step 1: Create PRIVATE Repository  
+   • Go to github.com/new  
+   • Select "Private" (NOT Public)  
+   • Name: "zetheta -Behaviour al-portfolio -[yourname]"  
+   • Add README: Yes  
+   • Add .gitignore: Python  
+   • License: NONE (Proprietary)  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation      
+   Step 2: Configure Security  
+   • Settings → Manage access → Add @ ZethetaIntern  as collaborator  
+   • Settings → Branches → Add rule → Require pull request reviews  
+   • Settings → Security → Enable security alerts  
+    
+   Step 3: Add Confidentiality Notice  
+   Create README.md with:  
+   "CONFIDENTIAL - Property of Zetheta Algorithms Private Limited  
+   This repository contains proprietary code and trade secrets.  
+   Unauthorized access, use, or distribution is strictly prohibited."  
+ 
+2. Project Tracking Setup:  
+   • Create private Notion/Trello board  
+   • Share ONLY with authorized mentors  
+   • Daily progress updates required  
+ 
+3. Communication Channels:  
+   • Use only official Slack/Teams channels  
+   • No discussion in public forums  
+   • No Stack Overflow questions with actual code  
+ 
+PART 1: COMPREHENSIVE TRAINING MATERIAL & SKILL DEVELOPMENT  
+(Complete in Days 1 -3) 
+ 
+1.1 CORE CONCEPTS TO MASTER  
+ 
+Behaviour al Finance Fundamentals:  
+• Prospect Theory and Loss Aversion  
+• Mental Accounting and Framing Effects  
+• Overconfidence and Confirmation Bias  
+• Herding Behaviour  and Social Proof  
+• Anchoring and Availability Heuristics  
+• Regret Aversion and Disposition Effect  
+ 
+Portfolio Optimization Theory:  
+• Modern Portfolio Theory (MPT)  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  • Efficient Frontier Construction  
+• Capital Asset Pricing Model (CAPM)  
+• Black -Litterman Model  
+• Risk Parity Strategies  
+• Factor -Based Investing  
+ 
+Machine Learning for Finance:  
+• Reinforcement Learning for Portfolio Management  
+• Neural Networks for Pattern Recognition  
+• Natural Language Processing for Sentiment  
+• Time Series Forecasting  
+• Anomaly Detection  
+• Clustering for Asset Classification  
+ 
+Quantitative Risk Management:  
+• Value at Risk (VaR) and CVaR  
+• Stress Testing and Scenario Analysis  
+• Monte Carlo Simulations  
+• Correlation and Covariance Matrices  
+• Drawdown Analysis  
+• Sharpe and Sortino Ratios  
+ 
+1.2 ESSENTIAL LEARNING RESOURCES  
+ 
+YouTube Video Tutorials (Watch in Order):  
+ 
+Behaviour al Finance Concepts:  
+• " Behaviour al Finance Explained" - Ben Felix: 
+https://youtube.com/watch?v= Behaviour al_finance   
+• "Daniel Kahneman: Thinking Fast and Slow" - Google Talks:  
+ https://youtube.com/watch?v=kahneman_talk   
+• "Common Biases in Investing" - Two Cents: https://youtube.com/watch?v=investing_biases   
+• "Psychology of Money" - Morgan Housel Talk:  
+ https://youtube.com/watch?v=psychology_money   
+• "Nudge Theory in Finance" - Richard Thaler: https://youtube.com/watch?v=nudge_theory   
+ 
+Portfolio Optimization:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  • "Modern Portfolio Theory" - Khan Academy: https://youtube.com/watch?v=MPT_explained   
+• "Efficient Frontier Tutorial" - Quantitative Finance:  
+ https://youtube.com/watch?v=efficient_frontier   
+• "Black -Litterman Model" - QuantPy: https://youtube.com/watch?v=black_litterman   
+• "Risk Parity Explained" - Bridgewater: https://youtube.com/watch?v=risk_parity   
+• "Factor Investing" - AQR Capital: https://youtube.com/watch?v=factor_investing   
+ 
+Machine Learning Applications:  
+• "ML for Trading - Full Course" - freeCodeCamp:  
+ https://youtube.com/watch?v=ml_trading_course   
+• "Reinforcement Learning in Finance" - DeepMind: https://youtube.com/watch?v=rl_finance   
+• "LSTM for Stock Prediction" - Sentdex: https://youtube.com/watch?v=lstm_stocks   
+• "Portfolio Optimization with Python" - PyData: https://youtube.com/watch?v=portfolio_python   
+• "Sentiment Analysis for Trading" - NLP Tutorial:  
+ https://youtube.com/watch?v=sentiment_trading   
+ 
+Free Online Courses:  
+ 
+Coursera (Audit for Free):  
+• "Behaviour al Finance" - Duke University  
+• "Portfolio and Risk Management" - University of Geneva  
+• "Machine Learning for Trading" - Google Cloud & NYIF  
+ 
+edX (Free Audit):  
+• "Behaviour al Economics" - MIT 
+• "Introduction to Portfolio Analysis" - IIMBx  
+• "Financial Risk Management" - University of Maryland  
+ 
+Udacity (Free Content):  
+• "AI for Trading Nanodegree" (Free preview lessons)  
+• "Machine Learning for Finance"  
+• "Time Series Forecasting"  
+ 
+Khan Academy:  
+• Finance and Capital Markets  
+• Statistics and Probability  
+• Linear Algebra Foundations  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+1.3 TECHNICAL DOCUMENTATION & REFERENCES  
+ 
+Essential Documentation:  
+ 
+Python Finance Libraries:  
+• NumPy Documentation: https://numpy.org/doc/   
+• Pandas Documentation: https://pandas.pydata.org/docs/   
+• PyPortfolioOpt: https://pyportfolioopt.readthedocs.io/   
+• Zipline (Backtesting): https://zipline.ml4trading.io/   
+• QuantLib Python: https://quantlib -python -docs.readthedocs.io/   
+• Backtrader: https://www.backtrader.com/docu/   
+ 
+Machine Learning Frameworks:  
+• Scikit -learn: https://scikit -learn.org/stable/    
+• TensorFlow Finance: https://www.tensorflow.org/tfx    
+• PyTorch Tutorials: https://pytorch.org/tutorials/   
+• XGBoost Documentation: https://xgboost.readthedocs.io/   
+• Prophet (Time Series): https://facebook.github.io/prophet/   
+• Ray RLlib (Reinforcement Learning): https://docs.ray.io/en/latest/rllib/   
+ 
+Financial Data APIs:  
+• Alpha Vantage: https://www.alphavantage.co/documentation/   
+• Yahoo Finance API: https://github.com/ranaroussi/yfinance   
+• Polygon.io: https://polygon.io/docs/   
+• IEX Cloud: https://iexcloud.io/docs/   
+• Quandl: https://docs.quandl.com/    
+• Federal Reserve (FRED): https://fred.stlouisfed.org/docs/api/   
+ 
+Behaviour al Analysis Tools:  
+• NLTK (Sentiment): https://www.nltk.org/   
+• TextBlob: https://textblob.readthedocs.io/   
+• VaderSentiment: https://github.com/cjhutto/vaderSentiment   
+• Transformers (Hugging Face): https://huggingface.co/docs/   
+ 
+GitHub Repositories to Study:  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Portfolio Optimization:  
+• https://github.com/robertmartin8/PyPortfolioOpt   
+• https://github.com/quantopian/zipline   
+• https://github.com/nakulnayyar/PortfolioOptimization   
+• https://github.com/dcajasn/Riskfolio -Lib  
+ 
+Behaviour al Finance:   
+• https://github.com/sstockbridge/ Behaviour al-finance   
+• https://github.com/stefan -jansen/machine -learning -for-trading   
+• https://github.com/hudson -and-thames/mlfinlab   
+ 
+Machine Learning Trading:  
+• https://github.com/tensortrade -org/tensortrade   
+• https://github.com/AminHP/gym -anytrading   
+• https://github.com/AI4Finance -Foundation/FinRL   
+ 
+1.4 AI TOOLS MASTERY FOR RAPID DEVELOPMENT  
+ 
+Claude.ai Prompting Strategy:  
+ 
+Initial Architecture Prompt:  
+"Design a Behaviour al portfolio optimization system that:  
+- Detects and corrects for investor Behaviour al biases  
+- Uses machine learning to predict bias -influenced decisions  
+- Implements dynamic portfolio rebalancing based on Behaviour al factors  
+- Provides personalized nudges to improve investment decisions  
+- Includes backtesting with Behaviour al adjustments  
+Provide system architecture, data flow, and ML model structure"  
+ 
+Algorithm Implementation Prompts:  
+"Implement a Behaviour al-adjusted Markowitz optimization that:  
+1. Incorporates loss aversion coefficient  
+2. Adjusts for overconfidence bias in return estimates  
+3. Accounts for mental accounting in risk assessment  
+4. Uses regret minimization in rebalancing decisions  
+Include mathematical formulations and Python code"  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  ML Model Generation:  
+"Create a reinforcement learning agent for portfolio management that:  
+- State space: market conditions + investor Behaviour al metrics  
+- Action space: portfolio weight adjustments  
+- Reward function: risk -adjusted returns with Behaviour al penalties  
+- Includes exploration vs exploitation balance  
+- Handles transaction costs and market impact  
+Provide complete implementation with TensorFlow/PyTorch"  
+ 
+ChatGPT -4 Specialized Prompts:  
+ 
+Bias Detection Algorithm:  
+"Develop a comprehensive bias detection system that identifies:  
+1. Recency bias through trading pattern analysis  
+2. Confirmation bias via information consumption metrics  
+3. Anchoring bias in price target settings  
+4. Herding Behaviour  through correlation analysis  
+5. Disposition effect in holding periods  
+Include statistical tests and visualization methods"  
+ 
+Risk Management Framework:  
+"Create a Behaviour al risk management framework with:  
+- Stress testing under different Behaviour al scenarios  
+- VaR adjustments for overconfidence  
+- Drawdown protection for loss -averse investors  
+- Correlation breakdown detection during panic  
+- Behaviour al factor attribution analysis  
+Provide formulas and implementation code"  
+ 
+Cursor AI Configuration:  
+ 
+Project Settings:  
+json 
+{ 
+  "ai.provider": "anthropic",  
+  "ai.model ": "claude -3-opus",  
+  "ai.temperature": 0.3,  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation    "ai.context": "Building Behaviour al portfolio optimizer",  
+  "ai.customInstructions": {  
+    "focus": "Financial algorithms and ML models",  
+    "style": "Production -ready Python code",  
+    "testing": "Include unit tests and backtesting",  
+    "documentation": "Detailed docstrings"  
+  } 
+} 
+ 
+ 
+Custom Commands:  
+- "Generate portfolio optimization function"  
+- "Create bias detection module"  
+- "Implement backtesting framework"  
+- "Build ML training pipeline"  
+ 
+PART 2: DEVELOPMENT METHODOLOGY & ARCHITECTURE  
+(Days 3 -10) 
+ 
+2.1 SYSTEM ARCHITECTURE DESIGN  
+ 
+Microservices Architecture:  
+ 
+1. Data Ingestion Service  
+   - Market data collection  
+   - Alternative data sources  
+   - News and sentiment feeds  
+   - User Behaviour  tracking  
+ 
+2. Behaviour al Analysis Engine  
+   - Bias detection algorithms  
+   - Pattern recognition  
+   - Behaviour al scoring  
+   - Anomaly detection  
+ 
+3. Portfolio Optimization Core  
+   - Optimization algorithms  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation     - Constraint handling  
+   - Rebalancing logic  
+   - Risk calculations  
+ 
+4. Machine Learning Pipeline  
+   - Model training  
+   - Feature engineering  
+   - Prediction service  
+   - Model versioning  
+ 
+5. Backtesting Engine  
+   - Historical simulation  
+   - Performance metrics  
+   - Attribution analysis  
+   - Report generation  
+ 
+6. User Interface API  
+   - Portfolio recommendations  
+   - Behaviour al insights  
+   - Performance tracking  
+   - Alert management  
+ 
+2.2 TECHNOLOGY STACK SELECTION  
+ 
+Backend Stack:  
+• Language: Python 3.10+  
+• Framework: FastAPI / Flask  
+• ML Framework: TensorFlow 2.x / PyTorch  
+• Task Queue: Celery + Redis  
+• Database: PostgreSQL + TimescaleDB  
+• Cache: Redis  
+• Message Queue: RabbitMQ / Kafka  
+ 
+Frontend Stack:  
+• Framework: React 18+ with TypeScript  
+• State Management: Redux Toolkit  
+• Charts: Recharts + D3.js  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  • UI Library: Material -UI / Ant Design  
+• Build Tool: Vite  
+• Testing: Jest + React Testing Library  
+ 
+Data Science Stack:  
+• Numerical: NumPy, SciPy  
+• Data Analysis: Pandas  
+• Visualization: Plotly, Seaborn  
+• Portfolio Opt: PyPortfolioOpt, cvxpy  
+• ML: Scikit -learn, XGBoost  
+• Deep Learning: TensorFlow/PyTorch  
+• Backtesting: Backtrader, Zipline  
+ 
+Infrastructure:  
+• Containerization: Docker  
+• Orchestration: Kubernetes  
+• CI/CD: GitHub Actions  
+• Monitoring: Prometheus + Grafana  
+• Logging: ELK Stack  
+• Cloud: AWS/GCP/Azure  
+ 
+2.3 DATABASE ARCHITECTURE  
+ 
+PostgreSQL Schema Design:  
+ 
+sql 
+-- User profiles with Behaviour al characteristics  
+CREATE TABLE user_profiles (  
+    user_id  UUID PRIMARY KEY DEFAULT gen_random_uuid(),  
+    email VARCHAR(255) UNIQUE NOT NULL,  
+    risk_tolerance DECIMAL(3,2),  
+    loss_aversion_coefficient DECIMAL(3,2),  
+    overconfidence_score DECIMAL(3,2),  
+    experience_years INT,  
+    created_at TIMESTAMPTZ DEFAULT NOW(),  
+    updated_at TIMESTAMPTZ DEFAULT NOW()  
+); ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+-- Portfolio holdings  
+CREATE TABLE portfolios (  
+    portfolio_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),  
+    user_id UUID REFERENCES user_profiles(user_id),  
+    name VARCHAR(100),  
+    total_value DECIMAL(15,2),  
+    cash_balance DECIMAL(15,2),  
+    created_at TIMESTAMPTZ DEFAULT NOW()  
+); 
+ 
+-- Individual positions  
+CREATE TABLE positions (  
+    position_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),  
+    portfolio_id UUID REFERENCES portfolios(portfolio_id),  
+    symbol VARCHAR(10) NOT NULL,  
+    quantity DECIMAL(15,4),  
+    cost_basis DECIMAL(15,2),  
+    current_value DECIMAL(15,2),  
+    weight DECIMAL(5,4),  
+    updated_at TIMESTAMPTZ DEFAULT NOW()  
+); 
+ 
+-- Behaviour al events tracking  
+CREATE TABLE Behaviour al_events (  
+    event_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),  
+    user_id UUID REFERENCES user_profiles(user_id),  
+    event_type VARCHAR(50), -- 'panic_sell', 'fomo_buy', 'loss_aversion'  
+    severity DECIMAL(3,2),  
+    context JSONB,  
+    detected_at TIMESTAMPTZ DEFAULT NOW()  
+); 
+ 
+-- Optimization recommendations  
+CREATE TABLE recommendations (  
+    recommendation_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),  
+    portfolio_id UUID REFERENCES portfolios(portfolio_id),  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation      optimization_type VARCHAR(50),  
+    current_allocation JSONB,  
+    recommended_allocation JSONB,  
+    expected_return DECIMAL(5,4),  
+    expected_risk DECIMAL(5,4),  
+    Behaviour al_adjustments JSONB,  
+    created_at TIMESTAMPTZ DEFAULT NOW()  
+); 
+ 
+-- Backtesting  results  
+CREATE TABLE backtest_results (  
+    backtest_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),  
+    portfolio_id UUID REFERENCES portfolios(portfolio_id),  
+    strategy_name VARCHAR(100),  
+    start_date DATE,  
+    end_date DATE,  
+    total_return DECIMAL(10,4),  
+    sharpe_ratio DECIMAL(5,3),  
+    max_drawdown DECIMAL(5,4),  
+    Behaviour al_score DECIMAL(3,2),  
+    detailed_results JSONB,  
+    created_at TIMESTAMPTZ DEFAULT NOW()  
+); 
+ 
+-- Time -series market data with TimescaleDB  
+CREATE TABLE market_data (  
+    time TIMESTAMPTZ NOT NULL,  
+    symbol VARCHAR(10) NOT NULL,  
+    open DECIMAL(10,2),  
+    high DECIMAL(10,2),  
+    low DECIMAL(10,2),  
+    close DECIMAL(10,2),  
+    volume BIGINT,  
+    adjusted_close DECIMAL(10,2)  
+); 
+ 
+SELECT create_hypertable(' market_data', 'time');  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+-- Sentiment data  
+CREATE TABLE sentiment_data (  
+    time TIMESTAMPTZ NOT NULL,  
+    symbol VARCHAR(10),  
+    source VARCHAR(50),  
+    sentiment_score DECIMAL(3,2),  
+    volume_mentions INT,  
+    influential_score DECIMAL(3,2)  
+); 
+ 
+SELECT create_hypertable('sentiment_data', 'time');  
+ 
+-- Create indexes for performance  
+CREATE INDEX idx_portfolios_user ON portfolios(user_id);  
+CREATE INDEX idx_positions_portfolio ON positions(portfolio_id);  
+CREATE INDEX idx_ Behaviour al_events_user ON Behaviour al_events(user_id, detected_at 
+DESC);  
+CREATE INDEX idx_market_data_symbol ON market_data(symbol, time DESC);  
+ 
+ 
+2.4 MACHINE LEARNING ARCHITECTURE  
+ 
+ML Pipeline Structure:  
+ 
+python  
+# Feature Engineering Pipeline  
+class Behaviour alFeatureEngineering:  
+    """ 
+    Extracts Behaviour al features from user trading history  
+    """ 
+     
+    def calculate_disposition_effect(self, trades):  
+        # Ratio of realized gains to losses  
+        pass 
+     
+    def measure_overtrading(self, trades, benchmark):  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          # Trading frequency vs market volatility  
+        pass 
+     
+    def detect_herding_ Behaviour (self, holdings, market_trends):  
+        # Correlation with crowd movements  
+        pass 
+     
+    def compute_recency_bias(self, decisions, time_weights):  
+        # Weight recent events more heavily  
+        pass 
+ 
+# Behaviour al Adjustment Model  
+class Behaviour alAdjustmentModel:  
+    """ 
+    Neural network for Behaviour al bias correction  
+    """ 
+     
+    def build_model(self):  
+        # LSTM for sequence modeling  
+        # Attention mechanism for important events  
+        # Multi -task learning for different biases  
+        pass 
+     
+    def train(self, historical_data, Behaviour al_labels):  
+        # Training pipeline with validation  
+        pass 
+     
+    def predict_adjustments(self, current_state):  
+        # Real -time bias correction factors  
+        pass 
+ 
+# Reinforcement Learning Agent  
+class PortfolioRLAgent:  
+    """ 
+    DQN/PPO agent for portfolio management  
+    """ 
+     ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation      def define_state_space(self):  
+        # Market conditions  
+        # Portfolio metrics  
+        # Behaviour al indicators  
+        pass 
+     
+    def define_action_space(self):  
+        # Buy/Sell/Hold actions  
+        # Position sizing  
+        # Rebalancing decisions  
+        pass 
+     
+    def reward_function(self, returns, risk, Behaviour al_score):  
+        # Composite reward with Behaviour al penalties  
+        pass 
+ 
+ 
+2.5 OPTIMIZATION ALGORITHMS  
+ 
+Core Optimization Implementation:  
+ 
+python  
+# Behaviour al Mean -Variance Optimization  
+class Behaviour alMVO:  
+    def __init__(self, loss_aversion=2.25, reference_point=0):  
+        self.loss_aversion = loss_aversion  
+        self.reference_point = reference_point  
+     
+    def optimize(self, expected_returns, cov_matrix, Behaviour al_factors):  
+        """ 
+        Behaviour al-adjusted Markowitz optimization  
+         
+        Adjustments:  
+        1. Prospect theory utility function  
+        2. Mental accounting constraints  
+        3. Regret minimization term  
+        4. Ambiguity aversion penalty  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          """ 
+         
+        # Adjust returns for Behaviour al biases  
+        adjusted_returns = self.apply_ Behaviour al_adjustments(  
+            expected_returns,  
+            Behaviour al_factors  
+        ) 
+         
+        # Modify covariance for perceived risk  
+        adjusted_cov = self.adjust_risk_perception(  
+            cov_matrix,  
+            Behaviour al_factors['risk_perception']  
+        ) 
+         
+        # Solve optimization with Behaviour al constraints  
+        weights = self.solve_quadratic_program(  
+            adjusted_returns,  
+            adjusted_cov,  
+            constraints=self.get_ Behaviour al_constraints()  
+        ) 
+         
+        return weights  
+     
+    def apply_prospect_theory(self, returns):  
+        """ 
+        Apply Kahneman -Tversky value function  
+        """ 
+        positive_returns = np.maximum(returns - self.reference_point, 0)  
+        negative_returns = np.minimum(returns - self.reference_point, 0)  
+         
+        utility = (positive_returns ** 0.88 -  
+                  self.loss_aversion * (( -negative_returns) ** 0.88))  
+         
+        return utility  
+ 
+ 
+2.6 GITHUB REPOSITORY STRUCTURE  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+ 
+zetheta -Behaviour al-portfolio/  
+├── .github/  
+│   ├── workflows/  
+│   │   ├── test.yml  
+│   │   ├── deploy.yml  
+│   │   └── ml -pipeline.yml  
+│   └── CODEOWNERS  
+├── backend/  
+│   ├── api/  
+│   │   ├── endpoints/  
+│   │   ├── middleware/  
+│   │   └── schemas/  
+│   ├── core/  
+│   │   ├── optimization/  
+│   │   │   ├── Behaviour al_mvo.py  
+│   │   │   ├── black_litterman.py  
+│   │   │   └── risk_parity.py  
+│   │   ├── Behaviour al/ 
+│   │   │   ├── bias_detection.py  
+│   │   │   ├── nudge_engine.py  
+│   │   │   └── scoring.py  
+│   │   └── ml/  
+│   │       ├── feature_engineering.py  
+│   │       ├── models/  
+│   │       └── training/  
+│   ├── data/  
+│   │   ├── collectors/  
+│   │   ├── processors/  
+│   │   └── storage/  
+│   ├── backtesting/  
+│   │   ├── engine.py  
+│   │   ├── strategies/  
+│   │   └── metrics.py  
+│   ├── tests/  
+│   └── requirements.txt  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  ├── frontend/  
+│   ├── src/  
+│   │   ├── components/  
+│   │   │   ├── Portfolio/  
+│   │   │   ├── Behaviour alInsights/  
+│   │   │   ├── Optimization/  
+│   │   │   └── Backtesting/  
+│   │   ├── hooks/  
+│   │   ├── services/  
+│   │   ├── store/  
+│   │   └── utils/  
+│   ├── public/  
+│   └── package.json  
+├── ml_pipeline/  
+│   ├── notebooks/  
+│   │   ├── exploratory_analysis.ipynb  
+│   │   ├── feature_engineering.ipynb  
+│   │   └── model_training.ipynb  
+│   ├── models/  
+│   │   └── saved_models/  
+│   ├── data/  
+│   │   ├── raw/  
+│   │   ├── processed/  
+│   │   └── features/  
+│   └── scripts/  
+│       ├── train_model.py  
+│       ├── evaluate.py  
+│       └── deploy_model.py  
+├── infrastructure/  
+│   ├── docker/  
+│   ├── kubernetes/  
+│   ├── terraform/  
+│   └── monitoring/  
+├── docs/  
+│   ├── API.md  
+│   ├── ALGORITHMS.md  
+│   ├── ML_MODELS.md  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  │   └── DEPLOYMENT.md  
+├── docker -compose.yml  
+├── .env.example  
+└── README.md (CONFIDENTIAL NOTICE)  
+ 
+ 
+PART 3: IMPLEMENTATION GUIDE  
+(Days 4 -12) 
+ 
+3.1 CORE FEATURE IMPLEMENTATION  
+Phase 1: Data Pipeline (Days 4 -5) 
+ 
+Market Data Collection:  
+python  
+class DataCollector:  
+    def __init__(self):  
+        self.sources = {  
+            'yahoo': yfinance,  
+            'alpha_vantage': AlphaVantage(key=API_KEY),  
+            'polygon': PolygonClient(API_KEY)  
+        } 
+     
+    async def collect_market_data(self, symbols, period='1y'):  
+        """ 
+        Collect historical price data  
+        """ 
+        tasks = []  
+        for symbol in symbols:  
+            tasks.append(self.fetch_symbol_data(symbol, period))  
+         
+        data = await asyncio.gather(*tasks)  
+        return pd.concat(data)  
+     
+    async def collect_sentiment_data(self, symbols):  
+        """ 
+        Gather sentiment from news and social media  
+        """ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          # Twitter sentiment  
+        # Reddit WSB sentiment  
+        # News article sentiment  
+        # Analyst ratings  
+        pass 
+ 
+ 
+Behaviour al Data Processing:  
+python  
+class Behaviour alProcessor:  
+    def analyze_trading_patterns(self, user_trades):  
+        """ 
+        Identify Behaviour al patterns in trading history  
+        """ 
+        metrics = {  
+            'avg_holding_period': self.calculate_holding_periods(user_trades),  
+            'win_loss_ratio': self.calculate_win_loss_ratio(user_trades),  
+            'panic_selling_score': self.detect_panic_selling(user_trades),  
+            'fomo_buying_score': self.detect_fomo_buying(user_trades),  
+            'overtrading_score': self.measure_overtrading(user_trades)  
+        } 
+        return metrics  
+     
+    def detect_biases(self, user_data):  
+        """ 
+        Comprehensive bias detection  
+        """ 
+        biases = {  
+            'confirmation_bias': self.measure_confirmation_bias(user_data),  
+            'recency_bias': self.measure_recency_bias(user_data),  
+            'anchoring_bias': self.detect_anchoring(user_data),  
+            'herding_ Behaviour ': self.detect_herding(user_data)  
+        } 
+        return biases  
+ 
+ 
+Phase 2: Optimization Engine (Days 6 -7) ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+Portfolio Optimizer Implementation:  
+python  
+class Behaviour alPortfolioOptimizer:  
+    def __init__(self, user_profile):  
+        self.user_profile = user_profile  
+        self.risk_tolerance = user_profile.risk_tolerance  
+        self.Behaviour al_factors = user_profile. Behaviour al_factors  
+     
+    def optimize_portfolio(self, assets, constraints=None):  
+        """ 
+        Main optimization routine with Behaviour al adjustments  
+        """ 
+        # Get historical data  
+        returns = self.calculate_returns(assets)  
+         
+        # Apply Behaviour al adjustments  
+        adjusted_returns = self.apply_ Behaviour al_adjustments(returns)  
+         
+        # Calculate risk metrics  
+        cov_matrix = returns.cov()  
+         
+        # Run optimization  
+        if self.user_profile.optimization_method == 'mvo':  
+            weights = self.mean_variance_optimization(  
+                adjusted_returns,  
+                cov_matrix  
+            ) 
+        elif self.user_profile.optimization_method == 'risk_parity':  
+            weights = self.risk_parity_optimization(cov_matrix)  
+        else: 
+            weights = self.black_litterman_optimization(  
+                adjusted_returns,  
+                cov_matrix,  
+                self.user_profile.views  
+            ) 
+         ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          # Apply Behaviour al constraints  
+        weights = self.apply_ Behaviour al_constraints(weights)  
+         
+        return weights  
+     
+    def apply_ Behaviour al_constraints (self, weights):  
+        """ 
+        Implement Behaviour al guardrails  
+        """ 
+        # Prevent over -concentration (overconfidence)  
+        max_weight = 0.3 / (1 + self.user_profile.overconfidence_score)  
+        weights = np.minimum(weights, max_weight)  
+         
+        # Ensure minimum diversification (loss aversion)  
+        min_positions = 5 * (1 + self.user_profile.loss_aversion)  
+         
+        # Normalize weights  
+        weights = weights / weights.sum()  
+         
+        return weights  
+ 
+ 
+Phase 3: Machine Learning Models (Days 8 -9) 
+ 
+Bias Prediction Model:  
+python  
+class BiasPredictionModel:  
+    def __init__(self):  
+        self.model = self.build_lstm_model()  
+        self.scaler = StandardScaler()  
+     
+    def build_lstm_model(self):  
+        """ 
+        LSTM model for predicting Behaviour al biases  
+        """ 
+        model = Sequential([  
+            LSTM(128, return_sequences=True, input_shape=(30, 15)),  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation              Dropout(0.2),  
+            LSTM(64, return_sequences=True),  
+            Dropout(0.2),  
+            LSTM(32),  
+            Dense(64, activation='relu'),  
+            Dense(5, activation='sigmoid')  # 5 bias types  
+        ]) 
+         
+        model.compile(  
+            optimizer=Adam(learning_rate=0.001),  
+            loss='binary_crossentropy',  
+            metrics=['accuracy', 'precision', 'recall']  
+        ) 
+         
+        return model  
+     
+    def prepare_features(self, user_data):  
+        """ 
+        Feature engineering for bias prediction  
+        """ 
+        features = []  
+         
+        # Trading frequency  
+        features.append(user_data['trade_count_30d'])  
+         
+        # Performance metrics  
+        features.append(user_data['returns_30d'])  
+        features.append(user_data['volatility_30d'])  
+         
+        # Market conditions  
+        features.append(user_data['vix_level'])  
+        features.append(user_data['market_trend'])  
+         
+        # Behaviour al indicators  
+        features.append(user_data['news_sentiment'])  
+        features.append(user_data['social_sentiment'])  
+         ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          return np.array(features)  
+     
+    def train(self, training_data, labels):  
+        """ 
+        Train the bias prediction model  
+        """ 
+        X = self.prepare_features(training_data)  
+        X_scaled = self.scaler.fit_transform(X)  
+         
+        history = self.model.fit(  
+            X_scaled, labels,  
+            epochs=100,  
+            batch_size=32,  
+            validation_split=0.2,  
+            callbacks=[  
+                EarlyStopping (patience=10),  
+                ReduceLROnPlateau(patience=5)  
+            ] 
+        ) 
+         
+        return history  
+ 
+ 
+Reinforcement Learning Agent:  
+python  
+class PortfolioRL:  
+    def __init__(self, state_dim, action_dim):  
+        self.state_dim = state_dim  
+        self.action_dim = action_dim  
+        self.memory = deque(maxlen=2000)  
+        self.epsilon = 1.0  
+        self.epsilon_decay = 0.995  
+        self.epsilon_min = 0.01  
+        self.model = self.build_model()  
+     
+    def build_model(self):  
+        """ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          Deep Q -Network for portfolio decisions  
+        """ 
+        model = Sequential([  
+            Dense(256, input_dim=self.state_dim, activation='relu'),  
+            Dense(128, activation='relu'),  
+            Dense(64, activation='relu'),  
+            Dense(self.action_dim, activation='linear')  
+        ]) 
+         
+        model.compile(  
+            loss='mse',  
+            optimizer=Adam(lr=0.001)  
+        ) 
+         
+        return model  
+     
+    def act(self, state):  
+        """ 
+        Choose action using epsilon -greedy policy  
+        """ 
+        if np.random.random() <= self.epsilon:  
+            return np.random.choice(self.action_dim)  
+         
+        q_values = self.model.predict(state)  
+        return np.argmax(q_values[0])  
+     
+    def replay(self, batch_size=32):  
+        """ 
+        Experience replay training  
+        """ 
+        if len(self.memory) < batch_size:  
+            return  
+         
+        batch = random.sample(self.memory, batch_size)  
+         
+        for state, action, reward, next_state, done in batch:  
+            target = reward  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation               
+            if not done:  
+                target = reward + 0.95 * np.amax(  
+                    self.model.predict(next_state)[0]  
+                ) 
+             
+            target_f = self.model.predict(state)  
+            target_f[0][action] = target  
+             
+            self.model.fit(state, target_f, epochs=1, verbose=0)  
+         
+        if self.epsilon > self.epsilon_min:  
+            self.epsilon *= self.epsilon_decay  
+ 
+ 
+Phase 4: Backtesting System (Days 10 -11) 
+ 
+Backtesting Framework:  
+python  
+class Behaviour alBacktester:  
+    def __init__(self, strategy, initial_capital=100000):  
+        self.strategy = strategy  
+        self.initial_capital = initial_capital  
+        self.results = {}  
+     
+    def run_backtest(self, data, start_date, end_date):  
+        """ 
+        Run backtesting with Behaviour al adjustments  
+        """ 
+        portfolio = Portfolio(self.initial_capital)  
+        Behaviour al_events = []  
+         
+        for date in pd.date_range(start_date, end_date):  
+            # Get market data  
+            current_prices = data.loc[date]  
+             
+            # Detect Behaviour al triggers  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation              Behaviour al_state = self.detect_ Behaviour al_state(  
+                portfolio,  
+                current_prices,  
+                date 
+            ) 
+             
+            if Behaviour al_state['trigger']:  
+                Behaviour al_events.append({  
+                    'date': date,  
+                    'type': Behaviour al_state['type'],  
+                    'severity': Behaviour al_state['severity']  
+                }) 
+             
+            # Get strategy signals with Behaviour al adjustment  
+            signals = self.strategy.generate_signals(  
+                current_prices,  
+                Behaviour al_state  
+            ) 
+             
+            # Execute trades  
+            trades = portfolio.execute_trades(signals, current_prices)  
+             
+            # Update portfolio  
+            portfolio.update(current_prices)  
+             
+            # Record metrics  
+            self.record_metrics(date, portfolio, Behaviour al_state)  
+         
+        return self.calculate_performance_metrics()  
+     
+    def calculate_performance_metrics(self):  
+        """ 
+        Calculate comprehensive performance metrics  
+        """ 
+        returns = pd.Series(self.results['returns'])  
+         
+        metrics = {  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation              'total_return': (returns + 1).prod() - 1, 
+            'annual_return': returns.mean() * 252,  
+            'volatility': returns.std() * np.sqrt(252),  
+            'sharpe_ratio': self.calculate_sharpe(returns),  
+            'sortino_ratio': self.calculate_sortino(returns),  
+            'max_drawdown': self.calculate_max_drawdown(returns),  
+            'calmar_ratio': self.calculate_calmar(returns),  
+            'Behaviour al_score': self.calculate_ Behaviour al_score()  
+        } 
+         
+        return metrics  
+ 
+ 
+3.2 AI -POWERED DEVELOPMENT WORKFLOW  
+ 
+Daily AI Tool Usage:  
+ 
+Day 4: Data Pipeline  
+Morning: Claude for data collection architecture  
+Afternoon: ChatGPT for API integrations  
+Evening: Cursor for implementation  
+ 
+Day 5: Processing Logic  
+Morning: AI for feature engineering  
+Afternoon: Data validation with AI  
+Evening: Testing data pipeline  
+ 
+Day 6: Optimization Core  
+Morning: Claude for algorithm design  
+Afternoon: Mathematical formulations  
+Evening: Implementation with Cursor  
+ 
+Day 7: Behaviour al Adjustments  
+Morning: ChatGPT for bias calculations  
+Afternoon: Constraint implementation  
+Evening: Optimization testing  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Day 8: ML Model Development  
+Morning: Model architecture with Claude  
+Afternoon: Training pipeline setup  
+Evening: Hyperparameter tuning  
+ 
+Day 9: Model Integration  
+Morning: API endpoints for ML  
+Afternoon: Real -time predictions  
+Evening: Model validation  
+ 
+Day 10: Backtesting Setup  
+Morning: Framework design with AI  
+Afternoon: Strategy implementation  
+Evening: Historical data preparation  
+ 
+Day 11: Testing & Validation  
+Morning: Performance metrics  
+Afternoon: Behaviour al analysis  
+Evening: Report generation  
+ 
+3.3 FRONTEND IMPLEMENTATION  
+ 
+Dashboard Components:  
+ 
+typescript  
+// PortfolioDashboard.tsx  
+const PortfolioDashboard: React.FC = () => {  
+  const  [portfolio, setPortfolio] = useState<Portfolio>();  
+  const [ Behaviour alMetrics, set Behaviour alMetrics] = useState< Behaviour alMetrics>();  
+   
+  return (  
+    <Grid container spacing={3}>  
+      <Grid item xs={12} md={8}>  
+        <PortfolioChart data={portfolio} />  
+      </Grid>  
+      <Grid item xs={12} md={4}>  
+        <Behaviour alScoreCard metrics={ Behaviour alMetrics} />  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation        </Grid>  
+      <Grid item xs={12} md={6}>  
+        <OptimizationRecommendations />  
+      </Grid>  
+      <Grid item xs={12} md={6}>  
+        <BiasAlerts />  
+      </Grid>  
+      <Grid item xs={12}>  
+        <BacktestResults />  
+      </Grid>  
+    </Grid>  
+  ); 
+}; 
+ 
+// Behaviour alInsights.tsx  
+const Behaviour alInsights: React.FC = () => {  
+  const  { biases, recommendations } = use Behaviour alAnalysis();  
+   
+  return (  
+    <Card>  
+      <CardHeader title="Your Behaviour al Profile" />  
+      <CardContent>  
+        <BiasRadarChart biases={biases} />  
+        <Divider />  
+        <Typography variant="h6">Personalized Recommendations</Typography>  
+        {recommendations.map(rec => (  
+          <NudgeCard key={rec.id} recommendation={rec} />  
+        ))} 
+      </CardContent>  
+    </Card>  
+  ); 
+}; 
+ 
+ 
+3.4 TESTING STRATEGY  
+ 
+Testing Framework:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+python  
+# Unit Tests  
+class Test Behaviour alOptimizer(unittest.TestCase):  
+    def setUp(self):  
+        self.optimizer = Behaviour alPortfolioOptimizer(  
+            mock_user_profile()  
+        ) 
+     
+    def test_bias_detection(self):  
+        trades = generate_mock_trades()  
+        biases = self.optimizer.detect_biases(trades)  
+         
+        self.assertIn('confirmation_bias', biases)  
+        self.assertTrue(0 <= biases['confirmation_bias'] <= 1)  
+     
+    def test_portfolio_optimization(self):  
+        assets = ['AAPL', 'GOOGL', 'MSFT', 'AMZN']  
+        weights = self.optimizer.optimize_portfolio(assets)  
+         
+        self.assertAlmostEqual(weights.sum(), 1.0)  
+        self.assertTrue(all(w >= 0 for w in weights))  
+     
+    def test_ Behaviour al_adjustments(self):  
+        returns = pd.Series([0.05, -0.03, 0.02, -0.01, 0.04])  
+        adjusted = self.optimizer.apply_ Behaviour al_adjustments(returns)  
+         
+        # Loss aversion should make losses feel larger  
+        self.assertTrue(abs(adjusted[1]) > abs(returns[1]))  
+ 
+# Integration Tests  
+class TestEndToEnd(unittest.TestCase):  
+    def test_full_optimization_flow(self):  
+        # Create user  
+        user = create_test_user()  
+         
+        # Collect data  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          data = collect_market_data(['SPY', 'QQQ', 'IWM'])  
+         
+        # Run optimization  
+        optimizer = Behaviour alPortfolioOptimizer(user)  
+        weights = optimizer.optimize_portfolio(data)  
+         
+        # Backtest  
+        backtester = Behaviour alBacktester(strategy)  
+        results = backtester.run_backtest(data, '2020 -01-01', '2023 -01-01') 
+         
+        self.assertGreater(results['sharpe_ratio'], 0)  
+ 
+ 
+PART 4: DEPLOYMENT & OPTIMIZATION  
+(Days 12 -14) 
+ 
+4.1 PERFORMANCE OPTIMIZATION  
+ 
+Optimization Techniques:  
+ 
+python  
+# Parallel Processing  
+from multiprocessing import Pool  
+from functools import partial  
+ 
+class ParallelOptimizer:  
+    def optimize_multiple_portfolios(self, user_profiles):  
+        """ 
+        Optimize portfolios in parallel  
+        """ 
+        with Pool() as pool:  
+            optimize_func = partial(  
+                self.optimize_single_portfolio,  
+                market_data=self.market_data  
+            ) 
+            results = pool.map(optimize_func, user_profiles)  
+         ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation          return results  
+ 
+# Caching Strategy  
+from functools import lru_cache  
+import redis  
+ 
+class CachedDataProvider:  
+    def __init__(self):  
+        self.redis_client = redis.Redis()  
+     
+    @lru_cache(maxsize=1000)  
+    def get_historical_prices(self, symbol, period):  
+        # Check Redis cache first  
+        cache_key = f"prices:{symbol}:{period}"  
+        cached = self.redis_client.get(cache_key)  
+         
+        if cached:  
+            return pickle.loads (cached)  
+         
+        # Fetch from API if not cached  
+        data = self.fetch_from_api(symbol, period)  
+         
+        # Cache for 1 hour  
+        self.redis_client.setex(  
+            cache_key,  
+            3600,  
+            pickle.dumps(data)  
+        ) 
+         
+        return data  
+ 
+ 
+4.2 MONITORING & ALERTING  
+ 
+Monitoring Setup:  
+ 
+python  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  # Prometheus Metrics  
+from prometheus_client import Counter, Histogram, Gauge  
+ 
+# Define metrics  
+optimization_counter = Counter(  
+    'portfolio_optimizations_total',  
+    'Total number of portfolio optimizations'  
+) 
+ 
+optimization_duration = Histogram(  
+    'optimization_duration_seconds',  
+    'Time spent in optimization'  
+) 
+ 
+Behaviour al_bias_gauge = Gauge(  
+    'user_ Behaviour al_bias_score',  
+    'Current Behaviour al bias score',  
+    ['user_id', 'bias_type']  
+) 
+ 
+portfolio_value_gauge = Gauge(  
+    'portfolio_value_usd',  
+    'Current portfolio value',  
+    ['portfolio_id']  
+) 
+ 
+# Alert Rules (Prometheus)  
+alert_rules = """  
+groups:  
+- name: Behaviour al_alerts  
+  rules:  
+  - alert: High Behaviour alBias  
+    expr: user_ Behaviour al_bias_score > 0.8  
+    for: 5m  
+    annotations:  
+      summary: "High Behaviour al bias detected for user {{ $labels.user_id }}"  
+   ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation    - alert: PortfolioDrawdown  
+    expr: rate( portfolio_value_usd[1h]) < -0.1 
+    for: 10m  
+    annotations:  
+      summary: "Significant portfolio drawdown detected"  
+""" 
+ 
+ 
+4.3 DEPLOYMENT CONFIGURATION  
+ 
+Docker Setup:  
+ 
+dockerfile  
+# Backend Dockerfile  
+FROM python:3.10 -slim 
+ 
+WORKDIR /app  
+ 
+# Install system dependencies  
+RUN apt -get update && apt -get install -y \ 
+    gcc \ 
+    g++ \ 
+    && rm -rf /var/lib/apt/lists/*  
+ 
+# Install Python dependencies  
+COPY requirements.txt .  
+RUN pip install --no-cache -dir -r requirements.txt  
+ 
+# Copy application  
+COPY . .  
+ 
+# Run application  
+CMD ["uvicorn", "main:app", " --host", "0.0.0.0", " --port", "8000"]  
+ 
+# ML Service Dockerfile  
+FROM tensorflow/tensorflow:2.11.0 -gpu 
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  WORKDIR /app  
+ 
+COPY requirements -ml.txt .  
+RUN pip install --no-cache -dir -r requirements -ml.txt  
+ 
+COPY ml_pipeline/ ./ml_pipeline/  
+ 
+CMD ["python", "ml_pipeline/serve_model.py"]  
+ 
+ 
+Kubernetes Deployment:  
+ 
+yaml  
+apiVersion: apps/v1  
+kind: Deployment  
+metadata:  
+  name: Behaviour al-portfolio -api 
+spec:  
+  replicas: 3  
+  selector:  
+    matchLabels:  
+      app: portfolio -api 
+  template:  
+    metadata:  
+      labels:  
+        app: portfolio -api 
+    spec:  
+      containers:  
+      - name: api  
+        image: registry.private/ Behaviour al-portfolio:latest  
+        ports:  
+        - containerPort: 8000  
+        env: 
+        - name: DATABASE_URL  
+          valueFrom:  
+            secretKeyRef:  
+              name: db -credentials  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation                key: url  
+        resources:  
+          requests:  
+            memory: "1Gi"  
+            cpu: "500m"  
+          limits:  
+            memory: "2Gi"  
+            cpu: "1000m"  
+--- 
+apiVersion: v1  
+kind: Service  
+metadata:  
+  name: portfolio -api-service  
+spec:  
+  selector:  
+    app: portfolio -api 
+  ports:  
+  - port: 80  
+    targetPort: 8000  
+  type: LoadBalancer  
+ 
+ 
+  
+PART 5: FINAL TESTING & HANDOVER  
+(Days 14 -15) 
+  
+ 
+5.1 COMPREHENSIVE TESTING CHECKLIST  
+ 
+Testing Requirements:  
+ 
+Performance Tests:  
+□ Optimization completes < 5 seconds  
+□ Handles 1000+ concurrent users  
+□ Backtesting processes 10 years data < 30 seconds  
+□ ML predictions < 100ms latency  
+□ Database queries optimized  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+Accuracy Tests:  
+□ Portfolio weights sum to 1.0  
+□ Risk metrics correctly calculated  
+□ Behaviour al scores validated  
+□ Backtesting results verified  
+□ ML model accuracy > 85%  
+ 
+Security Tests:  
+□ Authentication working  
+□ Data encryption enabled  
+□ SQL injection prevention  
+□ Rate limiting functional  
+□ API keys secured  
+ 
+5.2 DOCUMENTATION PACKAGE  
+ 
+Required Documentation:  
+ 
+1. User Manual:  
+markdown  
+# Behaviour al Portfolio Optimizer - User Guide  
+ 
+## Getting Started  
+1. Create account with risk profile  
+2. Connect brokerage account (sandbox)  
+3. View Behaviour al assessment  
+4. Run portfolio optimization  
+5. Review recommendations  
+ 
+## Understanding Your Behaviour al Score  
+- Loss Aversion: How you react to losses  
+- Overconfidence: Trading frequency analysis  
+- Herding: Following crowd Behaviour  
+- Recency Bias: Overweighting recent events  
+ 
+## Optimization Strategies  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  - Conservative: Focus on risk reduction  
+- Balanced: Risk -return optimization  
+- Aggressive: Return maximization  
+- Behaviour al: Bias -adjusted optimization  
+ 
+ 
+2. API Documentation:  
+yaml  
+openapi: 3.0.0  
+info:  
+  title: Behaviour al Portfolio API  
+  version: 1.0.0  
+ 
+paths:  
+  /optimize:  
+    post:  
+      summary: Optimize portfolio  
+      requestBody:  
+        required: true  
+        content:  
+          application/json:  
+            schema:  
+              type: object  
+              properties:  
+                user_id: string  
+                assets: array  
+                constraints: object  
+                method: string  
+      responses:  
+        200: 
+          description: Optimization results  
+          content:  
+            application/json:  
+              schema:  
+                type: object  
+                properties:  
+                  weights: array  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation                    expected_return: number  
+                  risk: number  
+                  Behaviour al_adjustments: object  
+ 
+ 
+5.3 VIDEO DEMO SCRIPT  
+ 
+Demo Outline (8 -10 minutes):  
+ 
+1. Introduction (30 seconds)  
+   - Project overview  
+   - Behaviour al finance importance  
+ 
+2. System Architecture (2 minutes)  
+   - Components walkthrough  
+   - ML pipeline explanation  
+   - Data flow visualization  
+ 
+3. Live Demo (5 minutes)  
+   - User onboarding  
+   - Behaviour al assessment  
+   - Portfolio optimization  
+   - Backtesting results  
+   - Bias detection alerts  
+ 
+4. Technical Deep -Dive (2 minutes)  
+   - Algorithm explanation  
+   - ML model performance  
+   - Behaviour al adjustments  
+ 
+5. Conclusion (30 seconds)  
+   - Key achievements  
+   - Future enhancements  
+ 
+5.4 HANDOVER PROCESS  
+ 
+Final Day Checklist:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+Morning Tasks:  
+□ Run final test suite  
+□ Fix critical bugs  
+□ Update documentation  
+□ Prepare demo environment  
+ 
+Afternoon Tasks:  
+□ Record demo video  
+□ Create presentation  
+□ Package deliverables  
+□ Final deployment  
+ 
+Evening Tasks:  
+□ GitHub repository transfer  
+□ Delete local copies  
+□ Submit deliverables  
+□ Complete handover  
+ 
+Repository Transfer:  
+bash 
+# Transfer ownership  
+# Settings → General → Transfer ownership  
+# New owner: @ ZethetaIntern  
+ 
+# Clean up local environment  
+rm -rf ~/projects/ Behaviour al-portfolio  
+rm -rf ~/.env  
+# Clear saved credentials  
+ 
+ 
+PROJECT TIMELINE & MILESTONES  
+ 
+15-Day Sprint Schedule:  
+ 
+Phase 1: Foundation (Days 1 -3) 
+□ Day 1: Setup, architecture design  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  □ Day 2: Research, learning resources  
+□ Day 3: Database design, ML planning  
+ 
+Phase 2: Data & Algorithms (Days 4 -7) 
+□ Day 4: Data pipeline setup  
+□ Day 5: Behaviour al processing  
+□ Day 6: Optimization algorithms  
+□ Day 7: Testing core logic  
+ 
+Phase 3: Machine Learning (Days 8 -9) 
+□ Day 8: ML model development  
+□ Day 9: Model training & integration  
+ 
+Phase 4: System Integration (Days 10 -12) 
+□ Day 10: Backtesting framework  
+□ Day 11: Frontend development  
+□ Day 12: API integration  
+ 
+Phase 5: Polish & Delivery (Days 13 -15) 
+□ Day 13: Testing & optimization  
+□ Day 14: Deployment preparation  
+□ Day 15: Demo & handover  
+ 
+SUCCESS METRICS & DELIVERABLES  
+ 
+Minimum Viable Product (Day 15)  
+ 
+Must Have:  
+✓ Working optimization engine  
+✓ Basic bias detection  
+✓ Portfolio recommendations  
+✓ Backtesting capability  
+✓ User authentication  
+✓ API endpoints functional  
+✓ Database operational  
+✓ Documentation complete  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  ✓ Video demo (PRIVATE)  
+✓ GitHub repository (TRANSFERRED)  
+ 
+Nice to Have:  
+• Advanced ML models  
+• Real -time trading  
+• Mobile app  
+• Social features  
+• Advanced visualizations  
+ 
+Acceptable Tech Debt:  
+• Some hardcoded parameters  
+• Basic UI design  
+• Limited test coverage (60%)  
+• Simple deployment  
+• Manual ML updates  
+ 
+Not Acceptable:  
+• Public repositories  
+• Exposed credentials  
+• No authentication  
+• Missing core features  
+• No documentation  
+• Public discussions  
+ 
+  
+LEGAL & COMPLIANCE  
+  
+ 
+Intellectual Property Rights:  
+• All code is property of Zetheta Algorithms Private Limited  
+• No personal use permitted  
+• No derivative works allowed  
+• No open -source contributions  
+• Portfolio use requires permission  
+ 
+Financial Compliance:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  • No real trading execution  
+• Educational purposes only  
+• No financial advice given  
+• Sandbox environment only  
+• Risk disclaimers included  
+ 
+Confidentiality Agreement:  
+• No disclosure of algorithms  
+• No sharing of ML models  
+• No discussion of strategies  
+• No revelation of optimizations  
+• NDA extends indefinitely  
+ 
+  
+EMERGENCY PROTOCOLS  
+ 
+If Behind Schedule:  
+ 
+Day 5 Checkpoint:  
+If data pipeline not working:  
+1. Use static CSV data  
+2. Skip real -time feeds  
+3. Focus on core optimization  
+4. Simplify features  
+5. Notify mentor  
+ 
+Day 10 Checkpoint:  
+If ML not training:  
+1. Use pre -trained models  
+2. Simplify to linear models  
+3. Focus on rule -based logic  
+4. Document limitations  
+5. Adjust scope  
+ 
+Day 13 Checkpoint:  
+If deployment failing:  
+1. Deploy locally only  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  2. Create detailed video  
+3. Focus on documentation  
+4. Prepare explanation  
+5. Contact support  
+ 
+Technical Failures:  
+ 
+If optimization fails:  
+• Use simple mean -variance  
+• Remove Behaviour al adjustments  
+• Implement basic allocation  
+ 
+If ML service down:  
+• Fall back to heuristics  
+• Use statistical methods  
+• Implement rule engine  
+ 
+SUPPORT RESOURCES  
+ 
+Internal Support Only:  
+• Private Slack: # Behaviour al-portfolio  
+• Mentor direct chat  
+• Technical architect  
+• Emergency hotline  
+ 
+Approved Resources:  
+• Official documentation  
+• Academic papers (generic)  
+• Internal knowledge base  
+• No public forums  
+ 
+AI Tool Guidelines:  
+• Generic finance queries only  
+• No proprietary algorithms  
+• Review generated code  
+• Test thoroughly  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  FINAL REMINDERS  
+ 
+Daily Security Checklist:  
+□ Repository PRIVATE  
+□ No public commits  
+□ Credentials secured  
+□ No screenshots shared  
+□ Progress logged privately  
+ 
+Success Keys:  
+• Leverage AI aggressively  
+• Focus on MVP features  
+• Test core functionality  
+• Document privately  
+• Transfer ownership completely  
+ 
+Your Mission: Build a functional Behaviour al portfolio optimizer that detects investor biases, 
+adjusts optimization algorithms accordingly, and provides personalized investment 
+recommendations - all while maintaining absolute confidentiality!  
+ 
+FINAL DECLARATION  
+ 
+By proceeding with this project, you acknowledge and agree that:  
+ 
+1. All work product becomes property of Zetheta Algorithms Private Limited  
+2. I will maintain strict confidentiality  
+3. I will create only PRIVATE repositories  
+4. I will transfer GitHub ownership on Day 15  
+5. I will not retain copies of code or documentation  
+6. I will not discuss this project publicly  
+7. I understand violation may result in legal action  
+ 
+All work remains property of Zetheta Algorithms Private Limited.  
+ 
+REMEMBER: PRIVATE. CONFIDENTIAL. PROPRIETARY.  
+ 
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+ 
+ 
+ 
+ 
+  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Project:  Behaviour al Portfolio Optimizer  
+Comprehensive Training & Implementation Guide  
+ 
+PART I: LEARNING RESOURCES & FUNDAMENTALS  
+ 
+Chapter 1: Behaviour al Portfolio Optimization  
+ 
+1.1 Traditional Portfolio Optimization vs Behaviour al Approaches  
+ 
+Traditional Modern Portfolio Theory (MPT):  
+ 
+Framework:  
+- Assumes rational investors  
+- Uses historical mean returns and covariances  
+- Maximizes returns for given risk level  
+- Efficient frontier drives allocation  
+ 
+Limitations:  
+Human reality vs MPT assumptions:  
+- Investors are emotional, not rational  
+- Risk perception ≠ statistical risk  
+- Recency bias: Recent performance overweighted  
+- Loss aversion: Losses feel 2.25x worse than gains  
+- Status quo bias: Reluctant to change allocation  
+- Overconfidence: Overestimate alpha -generating ability  
+ 
+Behaviour al Portfolio Optimization:  
+ 
+Incorporates:  
+- Investor psychology and biases  
+- Regret theory (avoiding past mistakes)  
+- Prospect theory (reference points matter)  
+- Attention constraints (limited mental capacity)  
+- Narrative/story -based allocation  
+ 
+Result: Portfolios that actual humans will stick with  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  1.2 Components of Behaviour al Portfolio Optimization  
+ 
+Loss Aversion in Portfolio Construction  
+ 
+Theory:  
+- Losses loom larger than gains (2.25:1 ratio)  
+- Reference point determines gains vs losses  
+- Creates preference for "sure thing" over lottery  
+ 
+Application:  
+Traditional allocation: 60/40 stocks/bonds  
+Expected volatility: 10% annually  
+Worst case drawdown: -30% possible  
+ 
+Investor's reaction: "30% loss is unacceptable!"  
+Behaviour al response: Reduce stock allocation  
+ 
+Behaviour al optimization:  
+- Set loss targets that feel acceptable  
+- Design portfolio to meet those targets  
+- Even if mathematically suboptimal  
+- But psychologically sustainable  
+ 
+Regret Minimization  
+ 
+Theory:  
+- Investors regret missing gains more than losses  
+- Past opportunity haunts more than past mistakes  
+- Creates FOMO (fear of missing out)  
+ 
+Application in Portfolio:  
+Scenario: Tech stocks outperform 5 years  
+ 
+Traditional allocation: 5% to tech (efficiency)  
+Investor regret: "Why didn't I own more tech?"  
+Behaviour al allocation: 15% tech (regret minimization)  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Consequence:  
+- Higher concentration risk  
+- But less regret  
+- Psychologically sustainable  
+ 
+Key insight: Regret minimization ≠ regret maximization  
+ 
+Reference Dependence  
+ 
+Theory:  
+- People evaluate wealth relative to reference point  
+- Not absolute level  
+- Reference point adapts slowly (stickiness)  
+ 
+Application:  
+Investor portfolio: $1,000,000 at start  
+Year 1: Portfolio grows 20% → $1,200,000  
+NEW REFERENCE POINT: $1,200,000 expected  
+ 
+Year 2: Portfolio earns 5% → $1,260,000  
+Perceived outcome: Underperformance (5% vs expected 20%)  
+Emotional response: Disappointment, not satisfaction  
+ 
+Behaviour al optimization:  
+- Acknowledge reference point shifts  
+- Adjust targets based on anchors  
+- Psychologically manage expectations  
+ 
+Mental Accounting in Portfolio  
+ 
+Theory:  
+- Investors segregate portfolio into "buckets"  
+- Different rules for different buckets  
+- "Household finance" mentality  
+ 
+Behaviour al Application:  
+Mental buckets:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  1. Safety bucket: Cash, bonds (must not lose)  
+2. Growth bucket: Stocks (accept volatility)  
+3. Speculation bucket: Options, crypto (lottery)  
+ 
+Portfolio allocation:  
+- 50% to safety (feel secure)  
+- 40% to growth (invest for retirement)  
+- 10% to speculation (lottery fun)  
+ 
+Efficient? No (more bonds than optimal)  
+Sustainable? Yes (meets psychological needs)  
+ 
+Attention Constraints  
+ 
+Theory:  
+- Limited mental capacity for decisions  
+- Complex portfolios ignored; simple ones monitored  
+- Concentrated holdings receive more attention  
+ 
+Behaviour al Application:  
+Optimal portfolio: 40 holdings across sectors  
+Problem: Investor can't monitor all  
+ 
+Behaviour al portfolio: 8 holdings  
+- Concentrated enough for attention  
+- Diversified enough for risk  
+- Actively monitored  
+- Higher engagement  
+ 
+Trade -off: More concentrated risk  
+But: Better execution (better timing, more rebalancing)  
+ 
+1.3 Behaviour al Portfolio Optimization Models  
+ 
+Shefrin & Statman Behaviour al Portfolio Theory  
+ 
+Three -Tier Portfolio Structure:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+Safety Layer (Bottom):  
+- Capital preservation  
+- Bonds, cash, insurance  
+- Ensures minimum acceptable outcome  
+- Never regret being safe  
+ 
+Potential Layer (Middle):  
+- Growth opportunity  
+- Diversified portfolio  
+- Expected return focus  
+- Accepts volatility  
+ 
+Aspiration Layer (Top):  
+- Lottery tickets  
+- Out-of-the-money options  
+- Speculative stocks  
+- Potential for wealth acceleration  
+ 
+Portfolio construction:  
+Start with safety (bonds covering 2 years expenses)  
+Add growth (core holdings in index funds)  
+Add aspirational (high -risk/reward plays)  
+ 
+Result: Psychologically coherent portfolio  
+vs Mathematically optimal MPT portfolio  
+ 
+Kahneman & Tversky Prospect Theory  
+ 
+Value Function:  
+- S-shaped curve (asymmetric)  
+- Concave for gains (diminishing returns)  
+- Convex for losses (increasing sensitivity)  
+- Loss aversion (steeper for losses)  
+ 
+Portfolio Application:  
+Gain domain (portfolio up):  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  - Additional gains feel less valuable  
+- Suggests selling winners (lock in gains)  
+- Problem: Gives up upside  
+ 
+Loss domain (portfolio down):  
+- Additional losses feel worse  
+- Suggests holding losers (avoid crystallizing loss)  
+- Problem: Let losers run  
+ 
+Behaviour al portfolio design:  
+- Account for these asymmetries  
+- Design rebalancing that works with (not against) psychology  
+- Acknowledge that some suboptimality is price of adherence  
+ 
+CPT (Cumulative Prospect Theory) Application:  
+Portfolio probability weighting:  
+- Common outcomes: Normal probability  
+- Rare outcomes: Overweighted probability  
+- Leads to insurance -like Behaviour  
+ 
+Example:  
+Black swan event probability: 0.1% (1 -in-1000)  
+Investor perception: 2 -3% (overweighting tail risk)  
+Portfolio result: More defensive positioning  
+Trade -off: Cost of insurance (lower returns)  
+Benefit: Peace of mind (prevents panic selling)  
+ 
+1.4 Risk Measurement in Behaviour al Context  
+ 
+Statistical Risk vs Perceived Risk  
+ 
+VaR (Value at Risk):  
+- Statistical measure: "5% chance of loss ≥ $X"  
+- Doesn't account for investor psychology  
+- May not match investor's risk tolerance  
+ 
+Behaviour al Risk:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  - Maximum loss investor psychologically accepts  
+- Often lower than statistical risk  
+- Sets true allocation constraints  
+ 
+Example:  
+Portfolio volatility: 15% annually  
+VaR 95% confidence: Maximum annual loss = 25%  
+ 
+Investor acceptable loss: 10%  
+Implication: 15% volatility too high  
+ 
+Solution: Reduce allocation until volatility ≤ 10%  
+Even if statistically suboptimal  
+ 
+ 
+Drawdown Tolerance  
+ 
+Maximum Drawdown:  
+- Largest peak -to-trough decline  
+- Matters more to investors than volatility  
+- More psychologically relevant  
+ 
+ 
+Portfolio A: 10% volatility, 15% maximum drawdown  
+Portfolio B: 10% volatility, 30% maximum drawdown  
+ 
+Mathematically: Same risk  
+Psychologically: Portfolio A preferred  
+Reason: Worst -case scenario less scary  
+ 
+Behaviour al optimization prioritizes max drawdown  
+ 
+ 
+Chapter 2: Game Mechanics for Portfolio Construction  
+ 
+2.1 Portfolio Building Challenges  
+ ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  Challenge 1: Allocation Puzzle  
+ 
+typescript  
+interface AllocationPuzzle {  
+    investor_profile: InvestorProfile;  
+    constraints: {  
+        max_single_position: number; // %  
+        min_diversification: number; // number of holdings  
+        max_volatility: number; // %  
+        max_drawdown: number; // %  
+    }; 
+    available_assets: Asset[];  
+} 
+ 
+class PortfolioOptimizationGame {  
+    evaluateAllocation(  
+        allocation: PortfolioAllocation,  
+        puzzle: AllocationPuzzle  
+    ): AllocationScore {  
+        let score = 0;  
+        let violations = [];  
+         
+        // Check constraints  
+        if (allocation.max_position > puzzle.constraints.max_single_position) {  
+            violations.push("Single position too large");  
+        } 
+         
+        if (allocation.holdings.length < puzzle.constraints.min_diversification) {  
+            violations.push("Not diversified enough");  
+        } 
+         
+        // Calculate expected outcomes  
+        const stats = this.calculatePortfolioStatistics(allocation);  
+         
+        if (stats.volatility > puzzle.constraints.max_volatility) {  
+            violations.push("Volatility too high");  
+        } ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation           
+        // Score based on objectives  
+        const expected_return = this.calculateExpectedReturn(allocation);  
+        const efficiency = expected_return / stats.volatility;  
+         
+        score = efficiency * 100;  
+         
+        // Penalties for violations  
+        violations.forEach(v => {  
+            score -= 50;  
+        }); 
+         
+        // Behaviour al alignment bonus  
+        const alignment_score = this.assess Behaviour alAlignment(  
+            allocation,  
+            puzzle.investor_profile  
+        ); 
+         
+        score += alignment_score * 10;  
+         
+        return {  
+            total_score: Math.round(score),  
+            violations: violations,  
+            expected_return: expected_return,  
+            volatility: stats.volatility,  
+            alignment: alignment_score  
+        }; 
+    } 
+} 
+ 
+ 
+Challenge 2: Rebalancing Strategy  
+ 
+ 
+Portfolio drifts over time:  
+- Winners outperform (allocations increase)  
+- Losers underperform (allocations decrease)  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation   
+Player must:  
+- Decide when to rebalance  
+- Choose which positions to adjust  
+- Manage tax implications  
+- Handle regret (selling winners)  
+ 
+Scoring:  
+- Cost minimization (taxes, fees)  
+- Return maximization (staying invested)  
+- Risk maintenance (keeping allocation)  
+ 
+Challenge 3: Investor Preference Matching  
+ 
+Different investor profiles have different needs:  
+- Retiree: Capital preservation, income  
+- Growth investor: Max returns, accept volatility  
+- Balanced: Both growth and stability  
+- Speculator: Exciting positions, upside  
+ 
+Player given investor profile  
+Must create allocation that:  
+- Meets financial objectives  
+- Aligns with psychological preferences  
+- Is sustainable long -term 
+ 
+Scoring:  
+- Objective achievement (return targets)  
+- Preference satisfaction (psychological comfort)  
+- Sustainability (likely to stay invested)  
+ 
+ 
+2.2 Interactive Simulation Mechanics  
+ 
+typescript  
+interface PortfolioSimulation {  
+    initial_allocation: PortfolioAllocation;  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation      simulation_period: number; // months  
+    market_scenarios: MarketScenario[];  
+    investor_stress_points: StressPoint[];  
+} 
+ 
+class PortfolioSimulationEngine {  
+    runSimulation(params: PortfolioSimulation): SimulationResult {  
+        let portfolio = params.initial_allocation;  
+        const performance_log = [];  
+         
+        for (let month = 0; month < params.simulation_period; month++) {  
+            // Simulate market movements  
+            const market_return = this.generateMarketReturn(  
+                params.market_scenarios[month]  
+            ); 
+             
+            portfolio.value = this.applyReturns(portfolio, market_return);  
+             
+            // Check for investor stress events  
+            const stress_event = params.investor_stress_points[month];  
+            if (stress_event) {  
+                // Would investor panic sell/buy?  
+                const investor_action = this.simulateInvestorReaction(  
+                    portfolio,  
+                    stress_event  
+                ); 
+                 
+                if (investor_action.action === 'panic_sell') {  
+                    // Apply panic selling to portfolio  
+                    portfolio = this.applyPanicSelling(portfolio, investor_action);  
+                } 
+            } 
+             
+            performance_log.push({  
+                month: month,  
+                value: portfolio.value,  
+                allocation: portfolio.allocation,  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation                  returns: market_return  
+            }); 
+        } 
+         
+        return {  
+            final_value: portfolio.value,  
+            total_return: this.calculateReturn(portfolio),  
+            max_drawdown: this.calculateMaxDrawdown(performance_log),  
+            volatility: this.calculateVolatility(performance_log),  
+            Behaviour al_adherence: this.assessAdherence(performance_log)  
+        }; 
+    } 
+     
+    // Simulate investor panic during stress  
+    private simulateInvestorReaction(  
+        portfolio: Portfolio,  
+        stress_event: StressPoint  
+    ): InvestorAction {  
+        // Check if portfolio hit pain thresholds  
+        const drawdown = this.calculateCurrentDrawdown(portfolio);  
+        const volatility = this.getCurrentVolatility(portfolio);  
+         
+        // Probability of panic based on stress level  
+        const panic_probability = Math.min(1.0,  
+            (drawdown / portfolio.max_acceptable_drawdown) *  
+            (volatility / portfolio.max_acceptable_volatility)  
+        ); 
+         
+        if (Math.random() < panic_probability) {  
+            return {  
+                action: 'panic_sell',  
+                amount_sold: portfolio.value * 0.2, // Sell 20%  
+                preference: 'most_volatile' // Sell most volatile first  
+            }; 
+        } 
+         
+        return { action: 'hold' };  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation      } 
+} 
+ 
+Chapter 3: Advanced Topics  
+ 
+3.1 Dynamic Allocation Based on Regret  
+ 
+Regret -Adjusted Rebalancing:  
+ 
+ 
+Traditional rule: Rebalance when 5% drift  
+Regret -adjusted rule:  
+- Rebalance drifts into losses earlier (regret avoidance)  
+- Rebalance drifts into gains later (regret of selling winners)  
+ 
+Result: Asymmetric rebalancing that matches psychology  
+ 
+3.2 Narrative -Based Portfolio Construction  
+ 
+Story -Driven Allocation:  
+ 
+Instead of: "60% stocks, 40% bonds"  
+Narrative: "Core holdings (60%) for retirement,  
+           Bond safety net (40%) for unexpected needs"  
+ 
+Better psychological understanding  
+More sustainable long -term 
+ 
+3.3 Peer Comparison and Status Effects  
+ 
+Reference Group Effects:  
+ 
+Investor compares to peer group  
+If underperforming: Regret, desire to take more risk  
+If overperforming: Satisfaction, confidence maintained  
+ 
+Behaviour al portfolio design:  ZeTheta Algorithms Private Limited  
+CIN No. U62012MH2023PTC410415  
+Registered Office Address: F2307 Oberoi Splendor JVLR  
+Mumbai – 4000 60, Maharashtra, India.  
+Email: hr@zetheta.com  
+Phone: +91 -9136249369   
+ 
+Strictly Private and Confidential – Not for Circulation  - Acknowledge peer comparison effects  
+- Set realistic peer benchmarks  
+- Manage expectations relative to benchmarks  
+ 
+You can search online or query any LLM for:  
+- Behaviour al biases in asset allocation  
+- Robo -advisor design with Behaviour al components  
+- Multi -generational portfolio design  
+- Tax-aware Behaviour al optimization  
+- Life-stage adjustments  
+- Habit formation in investing  
+- Social proof in asset allocation  
+- 15-day implementation roadmap  
+- Assessment metrics and success criteria  
+ 
+This teaches building portfolios people actually stay invested in.  
